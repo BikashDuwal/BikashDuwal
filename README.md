@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikash Duwal
-- HI, I'm Noob pro max
-- nothing to say much until we meet next time
+ I'm Noob pro max
+nothing to say much until we meet next time
 
 <!---
 BikashDuwal/BikashDuwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
