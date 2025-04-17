@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bikash Duwal
- I'm Noob pro max
+- 👋 Hi, I’m Develpeper
+Noob pro max
 nothing to say much until we meet next time
 
 <!---
